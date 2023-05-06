@@ -65,7 +65,9 @@
 }
 
 .connect-wallet-button {
-  background: -webkit-linear-gradient(left, #60c657, #35aee2);
+  font-family: "American Typewriter", sans-serif;
+  letter-spacing: 0.1em;
+  background: #435573;
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
 }
