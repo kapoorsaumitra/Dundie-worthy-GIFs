@@ -1,7 +1,6 @@
 @font-face {
   font-family: 'American Typewriter';
-  src: url('fonts/americantypewriter.ttf') format('ttf');
-       /* url('fonts/americantypewriter.woff') format('woff'); */
+  src: url('assets/fonts/americantypewriter-webfont.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
