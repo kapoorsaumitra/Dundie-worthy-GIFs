@@ -72,7 +72,8 @@
 }
 
 .submit-gif-button {
-  background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
+  font-family: "American Typewriter",sans-serif;
+  background:#435573;
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   margin-left: 10px;
@@ -89,7 +90,7 @@
   padding-bottom: 45px;
 }
 
-.twitter-logo {
+.github-logo {
   width: 35px;
   height: 35px;
   fill:   black;
@@ -126,6 +127,7 @@
 }
 
 .connected-container input[type='text'] {
+  font-family: "American Typewriter", sans-serif;
   display: inline-block;
   color: black;
   padding: 10px;
@@ -133,7 +135,7 @@
   height: 60px;
   font-size: 16px;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.25);
+  background-color: #bdbdbd;
   border: none;
   border-radius: 10px;
   margin: 50px auto;
